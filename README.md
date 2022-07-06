@@ -1,10 +1,10 @@
 # Hi, I'm Bernardo!
 
-I am a full-stack developer currently studying and specializing in the back-end. I am also at a University for a bachelor’s degree in computer science and learning various tech concepts on the internet. 
+I am a full-stack developer currently studying and specializing in the back-end. 
 
 #
 
-Eu sou um desenvolvedor full-stack e no momento estou me especializando no back-end. Também estou cursando bacharelado em ciência da computação e em constante aprendizado de conceitos tecnológicos pela internet.
+Eu sou um desenvolvedor full-stack e no momento estou me especializando no back-end. 
 
 <div align="center" flex-wrap="wrap" >
   <img 
